@@ -14,8 +14,7 @@ Tailwind CSS: A utility-first CSS framework for styling the application.
 Google Maps API: Integrated to show the barber shop's location.
 # Project Structure
 bash
-Copy code
-project-folder/
+# project-folder/
 │
 ├── index.html               # Main HTML file
 ├── /css                     # Folder containing CSS files
